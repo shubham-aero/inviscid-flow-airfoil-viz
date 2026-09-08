@@ -12,7 +12,7 @@ An interactive, single-file visualization of 2D potential flow around a Joukowsk
 
 GitHub Pages is enabled for this repo. It is live at:
 
-`https://<your-username>.github.io/<your-repo>/airfoil-flow-visualizer.html`
+`https://shubham-aero.github.io/inviscid-flow-airfoil-viz/airfoil-flow-visualizer.html`
 
 ## What it shows
 
