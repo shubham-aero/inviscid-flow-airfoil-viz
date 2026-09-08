@@ -10,7 +10,7 @@ An interactive, single-file visualization of 2D potential flow around a Joukowsk
 
 ## Live demo
 
-Once GitHub Pages is enabled for this repo (see below), it'll be live at:
+GitHub Pages is enabled for this repo. It is live at:
 
 `https://<your-username>.github.io/<your-repo>/airfoil-flow-visualizer.html`
 
@@ -77,7 +77,3 @@ Vanilla HTML, CSS, and JavaScript — rendering is plain Canvas 2D, no charting 
 ## Browser support
 
 Any recent evergreen browser (Chrome, Firefox, Safari, Edge). Needs JavaScript and Canvas 2D.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
