@@ -10,9 +10,9 @@ An interactive, single-file visualization of 2D potential flow around a Joukowsk
 
 ## Live demo
 
-GitHub Pages is enabled for this repo. It is live at:
+GitHub Pages is enabled for this repo.
 
-`https://shubham-aero.github.io/inviscid-flow-airfoil-viz/airfoil-flow-visualizer.html`
+**[Try it live →](https://shubham-aero.github.io/inviscid-flow-airfoil-viz/airfoil-flow-visualizer.html)**
 
 ## What it shows
 
@@ -48,15 +48,6 @@ If you'd rather serve it over `http://` instead of `file://`:
 python3 -m http.server 8000
 # then visit http://localhost:8000/airfoil-flow-visualizer.html
 ```
-
-## Deploying to GitHub Pages
-
-1. Push this repo to GitHub
-2. Go to **Settings → Pages**
-3. Under **Build and deployment**, set **Source** to *Deploy from a branch*, branch `main`, folder `/ (root)`
-4. Save — it'll publish at `https://<your-username>.github.io/<your-repo>/airfoil-flow-visualizer.html`
-
-The included `.nojekyll` file skips GitHub's default Jekyll processing, which isn't needed for a plain static file and just slows the build. For a clean root URL with no filename, duplicate or rename `airfoil-flow-visualizer.html` to `index.html`.
 
 ## How it works
 
